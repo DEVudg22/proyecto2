@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="container">
    <h1 className="title">
-      Bienvenido al Sistema de Captura de Información Penitenciaria <span aria-label="emoji" role="img"></span>
+      Bienvenido al Sistema de Captura de Información Penitenciaria. <span aria-label="emoji" role="img"></span>
    </h1>
    
    <input type="text" className="new-task" placeholder="usuario"/>
